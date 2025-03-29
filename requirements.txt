@@ -7,3 +7,7 @@ pandas
 scipy
 seaborn
 
+xgboost
+scikit-learn
+
+lightgbm
